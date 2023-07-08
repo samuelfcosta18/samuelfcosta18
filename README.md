@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Developer+Front-End)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&margin-left:20px&vCenter=true&width=435&lines=Developer+Front-End)](https://git.io/typing-svg)
 
 # **Bem-vindo ao meu portfólio!**
  -  Sou um programador iniciante ainda em graduação na UNISUAM, onde curso Análise e Desenvolvimento de Sistemas.
