@@ -1,5 +1,7 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&margin-left:20px&vCenter=true&width=435&lines=Developer+Front-End)](https://git.io/typing-svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfcosta18&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=donut&theme=github_dark&locale=pt-br)
+
 # **Bem-vindo ao meu portfólio!**
  -  Sou um programador iniciante ainda em graduação na UNISUAM, onde curso Análise e Desenvolvimento de Sistemas.
  -  Meu objetivo é me tornar um programador Full-Stack no futuro, mas pretendo começar com Front-End.
