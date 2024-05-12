@@ -13,6 +13,9 @@
 Este projeto está no meu repositório principal, e foi feito utilizando as versões mais recentes de HTML, CSS e JavaScript.
 
 ## **Linguagens que sei utilizar**
-![image](https://github.com/samuelfcosta18/samuelfcosta18/assets/101188185/bca9cd61-8f94-4ef0-b9ee-40eb86e1c373) ![image](https://github.com/samuelfcosta18/samuelfcosta18/assets/101188185/ea877778-515d-48cb-91df-5aecd8d743bd) ![image](https://github.com/samuelfcosta18/samuelfcosta18/assets/101188185/8520b07d-a5e3-4b3c-ac5f-2f3c47bcd69b) ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png | width:100px)
+![image](https://github.com/samuelfcosta18/samuelfcosta18/assets/101188185/bca9cd61-8f94-4ef0-b9ee-40eb86e1c373) ![image](https://github.com/samuelfcosta18/samuelfcosta18/assets/101188185/ea877778-515d-48cb-91df-5aecd8d743bd) ![image](https://github.com/samuelfcosta18/samuelfcosta18/assets/101188185/8520b07d-a5e3-4b3c-ac5f-2f3c47bcd69b) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="200px" height="100px"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="100" height="100">
+
+## **Frameworks já utilizados**
+<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" width="125px" height="100px"> <img src="https://ionicframework.com/img/framework-og-img.png" width="175px" height="100px">
 
 
