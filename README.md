@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A2CF7&center=true&vCenter=true&random=false&width=435&lines=Front%2C+Back+and+Mobile+Developer)](https://git.io/typing-svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfcosta18&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=donut&theme=github_dark&locale=pt-br)
+<h1 align="center"> Olá, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> eu sou o Samuel Freitas.
+ <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32F0FF&center=true&vCenter=true&random=false&width=435&lines=Front%2C+Back+and+Mobile+Developer" alt="Typing SVG" /></a>
 
 <h3 align="center">Bem vindo ao meu portfólio! </h3>
  -  Sou um programador iniciante ainda em graduação na UNISUAM, onde curso Análise e Desenvolvimento de Sistemas.
