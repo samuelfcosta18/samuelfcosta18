@@ -18,8 +18,7 @@ Este projeto está no meu repositório principal, e foi feito utilizando as vers
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/32f0ff" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/32f0ff"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/32f0ff"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/32f0ff"/>         
-  </p>
+    </p>
   
   <h3 align="center">Back End</h3>
   <p align="center">
