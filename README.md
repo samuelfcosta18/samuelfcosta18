@@ -36,5 +36,6 @@ Este projeto está no meu repositório principal, e foi feito utilizando as vers
 <p align="center">
 <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/32f0ff"/>
  <img height="40" width="40" src="https://cdn.simpleicons.org/ionic/32f0ff"/> 
+ <img height="40" width="40" src="https://cdn.simpleicons.org/angular/32f0ff"/>
 </p>
 
