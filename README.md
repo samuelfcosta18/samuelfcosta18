@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> eu sou o Samuel Freitas.
+no<h1 align="center"> Olá, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> eu sou o Samuel Freitas.
  <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=32F0FF&center=true&vCenter=true&random=false&width=435&lines=Front%2C+Back+and+Mobile+Developer" alt="Typing SVG" /></a>
 
@@ -37,5 +37,5 @@ Este projeto está no meu repositório principal, e foi feito utilizando as vers
 <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/32f0ff"/>
  <img height="40" width="40" src="https://cdn.simpleicons.org/ionic/32f0ff"/> 
  <img height="40" width="40" src="https://cdn.simpleicons.org/angular/32f0ff"/>
-<img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/32f0ff/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss/32f0ff"/>
 </p>
