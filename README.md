@@ -44,7 +44,6 @@
 
  <h3 align="center">Ferramentas</h3>
  <p align="center">
-  <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/32f0ff"/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/webstorm/32f0ff"/>
   <img height="40" width="40" src="https://cdn.simpleicons.org/phpstorm/32f0ff"/>
   </p>
