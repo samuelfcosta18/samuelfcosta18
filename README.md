@@ -4,8 +4,8 @@
 
 <h3 align="center">Bem vindo ao meu portfólio! </h3>
 <ul>
- <li> Sou um programador iniciante ainda em graduação na UNISUAM, onde curso Análise e Desenvolvimento de Sistemas.</li>
- <li>Meu objetivo é me tornar um programador Full-Stack no futuro, mas pretendo começar com Front-End.</li>
+ <li> Sou um programador iniciante graduado na UNISUAM, onde cursei Análise e Desenvolvimento de Sistemas.</li>
+ <li>Meu objetivo é me tornar um programador Full-Stack no futuro, mas comecei com Front-End e estou me aprofundando em Back-end.</li>
  <li> Ainda estou em busca do meu primeiro emprego, então, se puder me indicar no seu local de trabalho, ficarei eternamente grato a você.</li>
 </ul>
 <h3 align="center">Projeto da faculdade</h3>
@@ -13,6 +13,7 @@
 <li>Durante o período que estudei Programação Web Front-End na faculdade, fiz um projeto com meus colegas de grupo que consiste na réplica do site da 
 <a href="https://www.telecall.com">Telecall</a></li>
 <li>Este projeto está no meu repositório principal, e foi feito utilizando as versões mais recentes de HTML, CSS e JavaScript.</li>
+ <li>Além desse projeto, também fiz uma aplicação usando Ionic & Angular para Android, que está <a target="_blank" href="https://github.com/samuelfcosta18/starwars-app">aqui</a> e um verificador de senha usando javascript, que está <a target="_blank" href="https://github.com/samuelfcosta18/UniversalPasswordChecker">aqui</a>.</li>
 </ul>
 
 <h2 align="center">Linguagens e Ferramentas</h2>
@@ -25,14 +26,15 @@
   
   <h3 align="center">Back End</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/32f0ff"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/32f0ff"/>        
+    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/32f0ff"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/php/32f0ff"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/c++/32f0ff"/>
   </p>
   
   <h3 align="center">Banco de Dados</h3>
   <p align="center">
    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/32f0ff"/>   
-   <img height="40" width="40" src="https://cdn.simpleicons.org/php/32f0ff"/> 
+    
   </p>
 
 <h3 align="center">Frameworks já utilizados</h3>
